@@ -214,3 +214,7 @@
     - utter_ask_back_to_transfer
 * deny
     - utter_ok
+
+## greet/bye bye path
+* greet
+  - utter_greet
