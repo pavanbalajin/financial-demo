@@ -42,6 +42,7 @@
 - check deposits for last week
 - total deposits over last year
 - how much was deposited in January
+- How much money went into my account last month?
 
 ## intent:deny
 - not really
@@ -160,6 +161,10 @@
 - i want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card
 - I want to pay $500 on my [gringots](credit_card) credit card on Sunday
 - I want to pay my [current balance](payment_amount) on my [gringots](credit_card) credit card today
+- i would like to pay my credit card
+- i would like tp pay credit card
+- i  want to pay my credit card
+- i want to pay credit card
 
 ## intent:search_transactions
 - how much did I spend at [Target](vendor_name) this week?
@@ -204,3 +209,4 @@
 - I want to transfer $100 to John
 - i want to transfer $400 to Akela
 - i want to add money
+- i would like to transfer money
