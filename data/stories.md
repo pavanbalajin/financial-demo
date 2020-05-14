@@ -214,3 +214,10 @@
     - utter_ask_back_to_transfer
 * deny
     - utter_ok
+
+## New Story
+
+* greet
+    - utter_greet
+* pay_cc
+    - cc_payment_form
